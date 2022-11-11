@@ -1,0 +1,44 @@
+package com.saucedemo.TestPack;
+
+import java.io.IOException;
+import java.time.Duration;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
+
+import com.saucedemo.POMPack.HomePOMClass;
+
+
+
+public class TC02_VerifyLogOutFunctionality extends TestBaseClass
+{
+ 
+	@Test
+	public void verifyLogOut()
+	{
+		HomePOMClass hp = new HomePOMClass(driver);
+		hp.clickOnMenuButton();
+		log.info("Clicked on menu Button");
+		
+		hp.clickOnLogOutButton();
+		log.info("Clicked on logOut Button");
+		
+		//loginPage
+		log.info("Went on LoginPage");
+		
+		//validation
+		System.out.println("Apply validation");		
+		String expectedTitle = "Swag Labs";   //BA/dev		
+		String actaulTitle =driver.getTitle();	
+		
+		Assert.assertEquals(actaulTitle, expectedTitle);
+				
+	}
+	
+	
+
+}

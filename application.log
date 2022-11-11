@@ -1,0 +1,40 @@
+2022-11-04 19:31:56,033  INFO [main] SauceDemo25thJuneProject:44 - Browser is opened
+2022-11-04 19:31:56,328  INFO [main] SauceDemo25thJuneProject:47 - Browser is maximzed
+2022-11-04 19:31:57,661  INFO [main] SauceDemo25thJuneProject:50 - Url is opened
+2022-11-04 19:31:57,663  INFO [main] SauceDemo25thJuneProject:51 - Went on LoginPage
+2022-11-04 19:31:59,302  INFO [main] SauceDemo25thJuneProject:61 - Username is entered
+2022-11-04 19:31:59,893  INFO [main] SauceDemo25thJuneProject:64 - Password is entered
+2022-11-04 19:32:00,808  INFO [main] SauceDemo25thJuneProject:67 - Clicked on login Button
+2022-11-04 19:32:00,811  INFO [main] SauceDemo25thJuneProject:70 - Went on HomePage
+2022-11-04 19:32:03,502  INFO [main] SauceDemo25thJuneProject:77 - browser is closed
+2022-11-04 19:32:07,027  INFO [main] SauceDemo25thJuneProject:44 - Browser is opened
+2022-11-04 19:32:07,210  INFO [main] SauceDemo25thJuneProject:47 - Browser is maximzed
+2022-11-04 19:32:08,957  INFO [main] SauceDemo25thJuneProject:50 - Url is opened
+2022-11-04 19:32:08,958  INFO [main] SauceDemo25thJuneProject:51 - Went on LoginPage
+2022-11-04 19:32:09,879  INFO [main] SauceDemo25thJuneProject:61 - Username is entered
+2022-11-04 19:32:10,288  INFO [main] SauceDemo25thJuneProject:64 - Password is entered
+2022-11-04 19:32:11,068  INFO [main] SauceDemo25thJuneProject:67 - Clicked on login Button
+2022-11-04 19:32:11,073  INFO [main] SauceDemo25thJuneProject:70 - Went on HomePage
+2022-11-04 19:32:13,202  INFO [main] SauceDemo25thJuneProject:77 - browser is closed
+2022-11-04 19:32:16,849  INFO [main] SauceDemo25thJuneProject:44 - Browser is opened
+2022-11-04 19:32:17,109  INFO [main] SauceDemo25thJuneProject:47 - Browser is maximzed
+2022-11-04 19:32:18,740  INFO [main] SauceDemo25thJuneProject:50 - Url is opened
+2022-11-04 19:32:18,741  INFO [main] SauceDemo25thJuneProject:51 - Went on LoginPage
+2022-11-04 19:32:19,583  INFO [main] SauceDemo25thJuneProject:61 - Username is entered
+2022-11-04 19:32:20,080  INFO [main] SauceDemo25thJuneProject:64 - Password is entered
+2022-11-04 19:32:21,532  INFO [main] SauceDemo25thJuneProject:67 - Clicked on login Button
+2022-11-04 19:32:21,533  INFO [main] SauceDemo25thJuneProject:70 - Went on HomePage
+2022-11-04 19:32:22,225  INFO [main] SauceDemo25thJuneProject:25 - Clicked on menu Button
+2022-11-04 19:32:22,722  INFO [main] SauceDemo25thJuneProject:28 - Clicked on logOut Button
+2022-11-04 19:32:22,725  INFO [main] SauceDemo25thJuneProject:31 - Went on LoginPage
+2022-11-04 19:32:23,482  INFO [main] SauceDemo25thJuneProject:77 - browser is closed
+2022-11-04 19:32:27,007  INFO [main] SauceDemo25thJuneProject:44 - Browser is opened
+2022-11-04 19:32:27,288  INFO [main] SauceDemo25thJuneProject:47 - Browser is maximzed
+2022-11-04 19:32:28,574  INFO [main] SauceDemo25thJuneProject:50 - Url is opened
+2022-11-04 19:32:28,575  INFO [main] SauceDemo25thJuneProject:51 - Went on LoginPage
+2022-11-04 19:32:29,682  INFO [main] SauceDemo25thJuneProject:61 - Username is entered
+2022-11-04 19:32:30,467  INFO [main] SauceDemo25thJuneProject:64 - Password is entered
+2022-11-04 19:32:32,024  INFO [main] SauceDemo25thJuneProject:67 - Clicked on login Button
+2022-11-04 19:32:32,025  INFO [main] SauceDemo25thJuneProject:70 - Went on HomePage
+2022-11-04 19:32:33,033  INFO [main] SauceDemo25thJuneProject:27 - Apply validation
+2022-11-04 19:32:33,808  INFO [main] SauceDemo25thJuneProject:77 - browser is closed
